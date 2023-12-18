@@ -9,7 +9,7 @@
 
 - 🔭 Always working on **Projects**
 
-- 💬 Ask me about **react, JS, Python**
+- 💬 Ask me about **react, JS, Python, AWSc, Amplify**
 
 - 📫 How to reach me **ariasbetancourtandy@gmail.com**
 
